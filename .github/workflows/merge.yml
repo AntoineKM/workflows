@@ -1,7 +1,7 @@
 name: Merge
 on: [push]
 env:
-  DEFAULT_BRANCH: mergely
+  DEFAULT_BRANCH: "mergely"
 jobs:
   main:
     name: Merge Mergely
