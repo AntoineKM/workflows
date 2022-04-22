@@ -15,4 +15,5 @@ jobs:
           git status
           git pull
           git branch mergely
+          git checkout mergely
           git status
